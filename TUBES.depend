@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1588276438 source:d:\(2)\c++\tubes\main.cpp
+	"customer.h"
+	"produk.h"
+	"relasi.h"
+
+1588275514 d:\(2)\c++\tubes\customer.h
+	<iostream>
+
+1588197320 d:\(2)\c++\tubes\produk.h
+	<iostream>
+
+1588276394 d:\(2)\c++\tubes\relasi.h
+	<iostream>
+	<cstdlib>
+	"customer.h"
+	"produk.h"
+
+1588199862 source:d:\(2)\c++\tubes\produk.cpp
+	"produk.h"
+
+1588276745 source:d:\(2)\c++\tubes\relasi.cpp
+	"relasi.h"
+
+1588199912 source:d:\(2)\c++\tubes\customer.cpp
+	"customer.h"
+
